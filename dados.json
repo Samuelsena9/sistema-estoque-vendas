@@ -1,30 +1,16 @@
 [
     {
-        "codigo": 0,
-        "nome": "pao",
-        "categoria": "padaria",
-        "preco": 5.0,
-        "quantidade": 2
-    },
-    {
         "codigo": 1,
-        "nome": "teclado",
-        "categoria": "eletronico",
-        "preco": 20.0,
-        "quantidade": 1
+        "nome": "Mouse Gamer",
+        "categoria": "Periféricos",
+        "preco": 120.90,
+        "quantidade": 15
     },
     {
         "codigo": 2,
-        "nome": "celular",
-        "categoria": "eletronico",
-        "preco": 30.0,
-        "quantidade": 10000
-    },
-    {
-        "codigo": 3,
-        "nome": "laptop",
-        "categoria": "eletronico",
-        "preco": 4000.0,
-        "quantidade": 0
+        "nome": "Teclado Mecânico",
+        "categoria": "Periféricos",
+        "preco": 250.00,
+        "quantidade": 8
     }
 ]
